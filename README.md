@@ -6,9 +6,8 @@ A real-time fake face detection system using YOLOv8 and traditional image analys
 
 ## Contents
 - `model_test_1.py`: Code for running the live detection system.
-- `report.pdf`: Final detailed report.
 - `Poster.pdf`: Poster summarizing the project.
 - `models/`: Folder for custom YOLO model.
 - `images/`: Qualitative output examples.
-- `requirements.txt`: Dependencies.
+
 
